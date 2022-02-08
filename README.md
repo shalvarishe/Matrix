@@ -1,2 +1,2 @@
 # Matrix
-# This program creates 2 3x3 matrices and then adds, subtracts and multiplies them
+# This program creates two 3x3 matrices and then adds, subtracts and multiplies them
